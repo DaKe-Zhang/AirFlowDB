@@ -1,0 +1,21 @@
+[2024-04-24T20:02:41.062+0000] {processor.py:161} INFO - Started process (PID=7673) to work on /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-04-24T20:02:41.062+0000] {processor.py:830} INFO - Processing file /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-04-24T20:02:41.064+0000] {logging_mixin.py:188} INFO - [2024-04-24T20:02:41.063+0000] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-04-24T20:02:41.073+0000] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-04-24T20:02:41.232+0000] {logging_mixin.py:188} INFO - [2024-04-24T20:02:41.232+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-24T20:02:41.239+0000] {logging_mixin.py:188} INFO - [2024-04-24T20:02:41.239+0000] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-04-24T20:02:41.280+0000] {processor.py:183} INFO - Processing /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.222 seconds
+[2024-04-24T20:03:38.400+0000] {processor.py:161} INFO - Started process (PID=8439) to work on /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-04-24T20:03:38.401+0000] {processor.py:830} INFO - Processing file /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-04-24T20:03:38.402+0000] {logging_mixin.py:188} INFO - [2024-04-24T20:03:38.401+0000] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-04-24T20:03:38.474+0000] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-04-24T20:03:38.503+0000] {logging_mixin.py:188} INFO - [2024-04-24T20:03:38.503+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-24T20:03:38.510+0000] {logging_mixin.py:188} INFO - [2024-04-24T20:03:38.510+0000] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-04-24T20:03:38.547+0000] {processor.py:183} INFO - Processing /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.151 seconds
+[2024-04-24T20:04:30.658+0000] {processor.py:161} INFO - Started process (PID=8926) to work on /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-04-24T20:04:30.659+0000] {processor.py:830} INFO - Processing file /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-04-24T20:04:30.660+0000] {logging_mixin.py:188} INFO - [2024-04-24T20:04:30.660+0000] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-04-24T20:04:30.670+0000] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-04-24T20:04:30.701+0000] {logging_mixin.py:188} INFO - [2024-04-24T20:04:30.701+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-24T20:04:30.709+0000] {logging_mixin.py:188} INFO - [2024-04-24T20:04:30.709+0000] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-04-24T20:04:30.751+0000] {processor.py:183} INFO - Processing /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.097 seconds

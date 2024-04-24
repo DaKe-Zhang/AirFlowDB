@@ -1,0 +1,20 @@
+[2024-04-24T20:02:09.491+0000] {processor.py:161} INFO - Started process (PID=7354) to work on /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-04-24T20:02:09.491+0000] {processor.py:830} INFO - Processing file /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-04-24T20:02:09.493+0000] {logging_mixin.py:188} INFO - [2024-04-24T20:02:09.492+0000] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-04-24T20:02:09.494+0000] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-04-24T20:02:09.504+0000] {processor.py:183} INFO - Processing /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.017 seconds
+[2024-04-24T20:03:12.164+0000] {processor.py:161} INFO - Started process (PID=8247) to work on /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-04-24T20:03:12.164+0000] {processor.py:830} INFO - Processing file /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-04-24T20:03:12.165+0000] {logging_mixin.py:188} INFO - [2024-04-24T20:03:12.165+0000] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-04-24T20:03:12.167+0000] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-04-24T20:03:12.174+0000] {processor.py:183} INFO - Processing /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.014 seconds
+[2024-04-24T20:04:03.276+0000] {processor.py:161} INFO - Started process (PID=8730) to work on /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-04-24T20:04:03.277+0000] {processor.py:830} INFO - Processing file /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-04-24T20:04:03.278+0000] {logging_mixin.py:188} INFO - [2024-04-24T20:04:03.278+0000] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-04-24T20:04:03.280+0000] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-04-24T20:04:03.287+0000] {processor.py:183} INFO - Processing /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.015 seconds
+[2024-04-24T20:04:48.618+0000] {processor.py:161} INFO - Started process (PID=9055) to work on /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-04-24T20:04:48.619+0000] {processor.py:830} INFO - Processing file /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-04-24T20:04:48.621+0000] {logging_mixin.py:188} INFO - [2024-04-24T20:04:48.620+0000] {dagbag.py:540} INFO - Filling up the DagBag from /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-04-24T20:04:48.622+0000] {processor.py:842} WARNING - No viable dags retrieved from /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-04-24T20:04:48.629+0000] {processor.py:183} INFO - Processing /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.015 seconds

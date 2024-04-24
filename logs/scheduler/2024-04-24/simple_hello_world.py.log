@@ -1,0 +1,14 @@
+[2024-04-24T20:03:07.832+0000] {processor.py:161} INFO - Started process (PID=8159) to work on /workspaces/AirFlowDB/dags/simple_hello_world.py
+[2024-04-24T20:03:07.833+0000] {processor.py:830} INFO - Processing file /workspaces/AirFlowDB/dags/simple_hello_world.py for tasks to queue
+[2024-04-24T20:03:07.834+0000] {logging_mixin.py:188} INFO - [2024-04-24T20:03:07.834+0000] {dagbag.py:540} INFO - Filling up the DagBag from /workspaces/AirFlowDB/dags/simple_hello_world.py
+[2024-04-24T20:03:07.842+0000] {processor.py:840} INFO - DAG(s) 'hello_world' retrieved from /workspaces/AirFlowDB/dags/simple_hello_world.py
+[2024-04-24T20:03:08.004+0000] {logging_mixin.py:188} INFO - [2024-04-24T20:03:08.003+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-24T20:03:08.020+0000] {logging_mixin.py:188} INFO - [2024-04-24T20:03:08.020+0000] {dag.py:3954} INFO - Setting next_dagrun for hello_world to 2024-04-23 00:00:00+00:00, run_after=2024-04-24 00:00:00+00:00
+[2024-04-24T20:03:08.056+0000] {processor.py:183} INFO - Processing /workspaces/AirFlowDB/dags/simple_hello_world.py took 0.230 seconds
+[2024-04-24T20:04:21.611+0000] {processor.py:161} INFO - Started process (PID=8862) to work on /workspaces/AirFlowDB/dags/simple_hello_world.py
+[2024-04-24T20:04:21.612+0000] {processor.py:830} INFO - Processing file /workspaces/AirFlowDB/dags/simple_hello_world.py for tasks to queue
+[2024-04-24T20:04:21.614+0000] {logging_mixin.py:188} INFO - [2024-04-24T20:04:21.613+0000] {dagbag.py:540} INFO - Filling up the DagBag from /workspaces/AirFlowDB/dags/simple_hello_world.py
+[2024-04-24T20:04:21.620+0000] {processor.py:840} INFO - DAG(s) 'hello_world' retrieved from /workspaces/AirFlowDB/dags/simple_hello_world.py
+[2024-04-24T20:04:21.630+0000] {logging_mixin.py:188} INFO - [2024-04-24T20:04:21.630+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-24T20:04:21.644+0000] {logging_mixin.py:188} INFO - [2024-04-24T20:04:21.644+0000] {dag.py:3954} INFO - Setting next_dagrun for hello_world to 2024-04-23 00:00:00+00:00, run_after=2024-04-24 00:00:00+00:00
+[2024-04-24T20:04:21.681+0000] {processor.py:183} INFO - Processing /workspaces/AirFlowDB/dags/simple_hello_world.py took 0.074 seconds
