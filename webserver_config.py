@@ -16,11 +16,12 @@
 # specific language governing permissions and limitations
 # under the License.
 """Default configuration for the Airflow webserver."""
+
 from __future__ import annotations
 
 import os
 
-from airflow.www.fab_security.manager import AUTH_DB
+from flask_appbuilder.const import AUTH_DB
 
 # from airflow.www.fab_security.manager import AUTH_LDAP
 # from airflow.www.fab_security.manager import AUTH_OAUTH
@@ -31,7 +32,7 @@ from airflow.www.fab_security.manager import AUTH_DB
 basedir = os.path.abspath(os.path.dirname(__file__))
 
 # Flask-WTF flag for CSRF
-WTF_CSRF_ENABLED = True
+WTF_CSRF_ENABLED = False
 WTF_CSRF_TIME_LIMIT = None
 
 # ----------------------------------------------------
